@@ -116,6 +116,6 @@ Der Cube darf nur begrenzt funken. Erreicht die Funkauslastung **100 %**, sendet
 
 ## Lizenz
 
-[GPL-2.0-or-later](LICENSE). Die Kodierung der Thermostat-Parameter ist eine Python-Umsetzung aus *MAX! Home Automation* von Dmitry A. Kazakov (GPL-2.0-or-later). Teile orientieren sich an der Home-Assistant-Integration `maxcube` (Apache-2.0). Hinweise zu Herkunft und Lizenzen stehen in [NOTICE](NOTICE).
+[GPL-3.0-or-later](LICENSE). Die Kodierung der Thermostat-Parameter ist eine Python-Umsetzung aus *MAX! Home Automation* von Dmitry A. Kazakov (GPL-2.0-or-later, hier unter GPL-3.0 genutzt). Teile orientieren sich an der Home-Assistant-Integration `maxcube` (Apache-2.0, mit GPL-3.0 vereinbar). Hinweise zu Herkunft und Lizenzen stehen in [NOTICE](NOTICE).
 
 eQ-3 und MAX! sind Marken der eQ-3 AG. Dieses Projekt steht in keiner Verbindung zu eQ-3.

@@ -1,4 +1,5 @@
-"""MAX! Cube parameter telegrams, derived from Dmitry Kazakov's GPLv2+ Ada source.
+"""MAX! Cube parameter telegrams, derived from Dmitry Kazakov's GPLv2+ Ada source
+(used under GPL-3.0-or-later, see LICENSE and NOTICE).
 
 No network I/O in encoding functions. Configuration is only writable when a
 complete C response for the exact device was received in the current session.

@@ -1,5 +1,11 @@
-SPDX-License-Identifier: GPL-2.0-or-later
+SPDX-License-Identifier: GPL-3.0-or-later
 
-This project includes a Python adaptation of parameter encoding from
-Dmitry A. Kazakov, MAX! Home Automation, licensed GPL-2.0-or-later.
-See https://www.gnu.org/licenses/old-licenses/gpl-2.0.html for full terms.
+MAX! Cube Evolution is licensed under the GNU General Public License,
+version 3 or (at your option) any later version. The full text is in the
+LICENSE file at the root of the repository and at
+https://www.gnu.org/licenses/gpl-3.0.html
+
+It includes a Python adaptation of the parameter encoding from
+Dmitry A. Kazakov, MAX! Home Automation (GPL-2.0-or-later, used here under
+GPL-3.0), and is based in part on the Home Assistant integration "maxcube"
+(Apache License 2.0). See NOTICE in the repository for details.

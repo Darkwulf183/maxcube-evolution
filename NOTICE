@@ -1,14 +1,17 @@
 MAX! Cube Evolution
 Copyright (C) 2026 Darkwulf183 and contributors
-Licensed under the GNU General Public License, version 2 or (at your option)
+Licensed under the GNU General Public License, version 3 or (at your option)
 any later version. See LICENSE.
+
+GPL-3.0 is used because it is compatible with both GPL-2.0-or-later
+(MAX! Home Automation) and the Apache License 2.0 (Home Assistant).
 
 This project contains or is based on work from the following projects:
 
 1. MAX! Home Automation
    Copyright (C) Dmitry A. Kazakov
    http://www.dmitry-kazakov.de/ada/max_home_automation.htm
-   License: GPL-2.0-or-later
+   License: GPL-2.0-or-later (used here under GPL-3.0)
    Used for: MAX! Cube protocol, thermostat parameter and boost telegrams
    (custom_components/maxcube_evolution/protocol.py, discovery.py)
 
