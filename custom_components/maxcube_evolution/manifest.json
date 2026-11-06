@@ -1,0 +1,19 @@
+{
+  "domain": "maxcube_evolution",
+  "name": "MAX! Cube Evolution",
+  "codeowners": [
+    "@Darkwulf183"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/Darkwulf183/maxcube-evolution",
+  "integration_type": "hub",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/Darkwulf183/maxcube-evolution/issues",
+  "loggers": [
+    "maxcube"
+  ],
+  "requirements": [
+    "maxcube-api==0.4.3"
+  ],
+  "version": "0.4.0"
+}

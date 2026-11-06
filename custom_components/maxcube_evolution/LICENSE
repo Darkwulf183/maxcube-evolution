@@ -1,0 +1,5 @@
+SPDX-License-Identifier: GPL-2.0-or-later
+
+This project includes a Python adaptation of parameter encoding from
+Dmitry A. Kazakov, MAX! Home Automation, licensed GPL-2.0-or-later.
+See https://www.gnu.org/licenses/old-licenses/gpl-2.0.html for full terms.

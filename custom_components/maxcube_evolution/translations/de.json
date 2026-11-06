@@ -1,0 +1,37 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "MAX! Cube verbinden",
+        "description": "Gefundenen Cube auswählen oder Adresse manuell eingeben.",
+        "data": {
+          "choice": "Cube"
+        }
+      },
+      "manual": {
+        "title": "MAX! Cube manuell verbinden",
+        "description": "Lokale Adresse des Cubes eingeben.",
+        "data": {
+          "host": "Hostname oder IP-Adresse",
+          "port": "TCP-Port"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Keine Verbindung zum Cube möglich"
+    },
+    "abort": {
+      "already_configured": "Dieser Cube ist bereits eingerichtet"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "MAX! Cube Optionen",
+        "data": {
+          "scan_interval": "Abfrageintervall (Sekunden)"
+        }
+      }
+    }
+  }
+}

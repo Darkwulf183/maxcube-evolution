@@ -1,0 +1,20 @@
+reboot:
+  name: Cube neu starten
+  description: Sendet den UDP-Neustartbefehl an den Cube (kein Werksreset).
+  fields:
+    entry_id:
+      name: Integrationseintrag-ID
+      description: Optional; ohne Angabe werden alle konfigurierten Cubes angesprochen.
+      example: abc123
+      selector:
+        text:
+reconnect:
+  name: Verbindung neu aufbauen
+  description: Trennt die TCP-Verbindung und aktualisiert den Cube.
+  fields:
+    entry_id:
+      name: Integrationseintrag-ID
+      description: Optional; ohne Angabe werden alle konfigurierten Cubes angesprochen.
+      example: abc123
+      selector:
+        text:
