@@ -109,11 +109,13 @@ Der Cube darf nur begrenzt funken. Erreicht die Funkauslastung **100 %**, sendet
 |---|---|
 | [@Darkwulf183](https://github.com/Darkwulf183) | Idee, Entwicklung, Tests, Maintainer |
 | [Dmitry A. Kazakov](http://www.dmitry-kazakov.de/ada/max_home_automation.htm) | MAX!-Protokoll aus *MAX! Home Automation* (GPL), Grundlage für Parameter und Boost |
+| [Home-Assistant-Integration eQ-3 MAX! (`maxcube`)](https://github.com/home-assistant/core/commits/dev/homeassistant/components/maxcube) und ihre Mitwirkenden | Vorlage für Klima-Entitäten, Modi, Presets, Fensterkontakte und Batteriesensoren (Apache-2.0) |
+| [David Übelacker](https://github.com/uebelack/python-maxcube-api) und Mitwirkende von `maxcube-api` | Python-Bibliothek für die Cube-Verbindung, Geräte und Temperaturbefehle (MIT) |
 | [ChatGPT](https://chatgpt.com) (OpenAI) | Entwicklung der Integration |
 | [Claude](https://claude.ai) (Anthropic) | Code-Review, Fehlerbehebung, Migrationstaste, Icon, Repository-Einrichtung |
 
 ## Lizenz
 
-[GPL-2.0-or-later](LICENSE). Die Kodierung der Thermostat-Parameter ist eine Python-Umsetzung aus *MAX! Home Automation* von Dmitry A. Kazakov (GPL-2.0-or-later).
+[GPL-2.0-or-later](LICENSE). Die Kodierung der Thermostat-Parameter ist eine Python-Umsetzung aus *MAX! Home Automation* von Dmitry A. Kazakov (GPL-2.0-or-later). Teile orientieren sich an der Home-Assistant-Integration `maxcube` (Apache-2.0). Hinweise zu Herkunft und Lizenzen stehen in [NOTICE](NOTICE).
 
 eQ-3 und MAX! sind Marken der eQ-3 AG. Dieses Projekt steht in keiner Verbindung zu eQ-3.

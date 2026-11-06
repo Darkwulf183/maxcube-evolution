@@ -1,0 +1,26 @@
+MAX! Cube Evolution
+Copyright (C) 2026 Darkwulf183 and contributors
+Licensed under the GNU General Public License, version 2 or (at your option)
+any later version. See LICENSE.
+
+This project contains or is based on work from the following projects:
+
+1. MAX! Home Automation
+   Copyright (C) Dmitry A. Kazakov
+   http://www.dmitry-kazakov.de/ada/max_home_automation.htm
+   License: GPL-2.0-or-later
+   Used for: MAX! Cube protocol, thermostat parameter and boost telegrams
+   (custom_components/maxcube_evolution/protocol.py, discovery.py)
+
+2. Home Assistant, integration "maxcube" (eQ-3 MAX!)
+   Copyright Home Assistant contributors
+   https://github.com/home-assistant/core/tree/dev/homeassistant/components/maxcube
+   License: Apache License 2.0, https://www.apache.org/licenses/LICENSE-2.0
+   Used for: climate entity behaviour (modes, presets, off/on temperatures),
+   window contact and battery sensors, unique ID scheme
+   (custom_components/maxcube_evolution/climate.py, binary_sensor.py)
+
+3. maxcube-api (runtime dependency, not included)
+   Copyright (c) 2015 David Übelacker and contributors
+   https://github.com/uebelack/python-maxcube-api
+   License: MIT
