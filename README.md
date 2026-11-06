@@ -109,6 +109,7 @@ Der Cube darf nur begrenzt funken. Erreicht die Funkauslastung **100 %**, sendet
 |---|---|
 | [@Darkwulf183](https://github.com/Darkwulf183) | Idee, Entwicklung, Tests, Maintainer |
 | [Dmitry A. Kazakov](http://www.dmitry-kazakov.de/ada/max_home_automation.htm) | MAX!-Protokoll aus *MAX! Home Automation* (GPL), Grundlage für Parameter und Boost |
+| [ChatGPT](https://chatgpt.com) (OpenAI) | Entwicklung der Integration |
 | [Claude](https://claude.ai) (Anthropic) | Code-Review, Fehlerbehebung, Migrationstaste, Icon, Repository-Einrichtung |
 
 ## Lizenz
